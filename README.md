@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natterum</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
-- 🌱 I’m currently learning **React, NextJs**
+- 🌱 I’m currently working in **React, NextJs**
 
 - 📫 How to reach me **natterum@gmail.com**
 
